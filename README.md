@@ -34,13 +34,7 @@ and [TypeScript](https://www.typescriptlang.org/).
 
 ### `npm start`
 
-
-GET content from Wikipedia: http://localhost:3000/feed?year=2024&month=05&day=08 
-(date can be changed to GET different featured contents from Wikipedia)
-
-GET translated content : http://localhost:3000/feed/translate/es?year=2024&month=06&day=01
-(change date accordingly to see translation from different dates)
-
+Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
